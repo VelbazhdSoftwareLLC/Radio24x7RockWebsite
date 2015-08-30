@@ -1,0 +1,98 @@
+@charset "utf-8";
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #000000;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	zoom: 0.85;
+}
+.oneColElsCtrHdr #container {
+	width: 780px;
+	text-align: center;
+	background-image: url(img/background.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	margin-right: auto;
+	margin-left: auto;
+}
+.oneColElsCtrHdr #header {
+	padding-top: 10px;
+} 
+.oneColElsCtrHdr #header h1 {
+	margin: 0; 
+}
+.oneColElsCtrHdr #mainContent {
+	height: 420px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.oneColElsCtrHdr #player {
+	float: left;
+	margin-top: 20px;
+	width: 340px;
+	position: relative;
+		font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: small;
+	text-align: left;
+	color: #6699CC;
+} 
+.oneColElsCtrHdr #player a {
+	color: white;
+}
+.oneColElsCtrHdr #player2 {
+	float: left;
+	height: 380px;
+	width: 380px;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: small;
+	text-align: left;
+	color: #69C;
+	position: relative;
+	background-image: url(img/backgroundPlayer.png);
+	background-repeat: repeat;
+}
+
+.oneColElsCtrHdr #player2 a {
+	color: white;
+}
+
+.oneColElsCtrHdr #ffmp3 {
+	float: left;
+	width: 190px;
+	text-align: left;
+	position: relative;
+	left: 10px;
+}
+.oneColElsCtrHdr #winamp {
+	float: left;
+	width: 170px;
+	text-align: left;
+	position: relative;
+	left: 10px;
+	padding-left: 10px;
+}
+
+
+
+.oneColElsCtrHdr #footer {
+	padding: 0 10px;
+} 
+.oneColElsCtrHdr #footer p {
+	margin: 0; 
+	padding: 10px 0;
+	vertical-align: middle;
+}
+.text {
+	color: #FFF;
+	font-size: small;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: normal;
+}
+a img {
+	vertical-align: middle;
+}

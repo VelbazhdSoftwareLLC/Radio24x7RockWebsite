@@ -1,0 +1,6 @@
+C:\xampp\htdocs\site\img\mb_listen_with_winamp.gif
+C:\xampp\htdocs\site\img\mb_listen_with_winamp_1.gif
+C:\xampp\htdocs\site\img\mb_listen_with_winamp_2.gif
+C:\xampp\htdocs\site\img\mbjsmb73g0.js
+C:\xampp\htdocs\site\img\mbcsmb73g0.css
+C:\xampp\htdocs\site\img\filelist_73g0.txt
